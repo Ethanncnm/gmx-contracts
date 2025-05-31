@@ -1,4 +1,5 @@
 # GMX Contracts
+For a Chinese version of this README, see [README.zh.md](README.zh.md).
 Contracts for GMX.
 
 Docs at https://gmxio.gitbook.io/gmx/contracts.
